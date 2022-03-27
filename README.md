@@ -17,4 +17,8 @@
 # Menambahkan dan mengatur margin dan padding pada cel data
 # menggabungkan sel data
 # Membuat Form
+
+![membuat form](screenshot/gambar5.png)
+
+
 # Menabahkan Style pada Form
