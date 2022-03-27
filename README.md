@@ -10,6 +10,10 @@
 
 # Menambahkan kode untuk membuat description list
 # Menambahkan dan Membuat Tabel
+
+![membuat tabel](screenshot/gambar4.png)
+
+
 # Menambahkan dan mengatur margin dan padding pada cel data
 # menggabungkan sel data
 # Membuat Form
