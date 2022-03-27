@@ -22,3 +22,7 @@
 
 
 # Menabahkan Style pada Form
+
+![menambahkan style form](screenshot/gambar7.png)
+
+
