@@ -26,3 +26,7 @@
 ![menambahkan style form](screenshot/gambar7.png)
 
 
+#  menampilkan dropdown menu dan listbox
+
+![menambahkan  menampilkan dropdown menu dan listbox](screenshot/gambar8.png)
+
